@@ -1,4 +1,4 @@
-### Hi there 👋
+![My most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haakonbaa&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
 
 <!--
 **haakonbaa/haakonbaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
